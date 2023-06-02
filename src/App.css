@@ -1,0 +1,19 @@
+.image{
+  width:100px;  
+  height: 30px;
+}
+.centered{
+  position: absolute;
+  top: 10%;
+  left: 35%;
+  width:400px;
+}
+.image-opacity{
+  opacity: 0.9;
+}
+/* .plus-btn{
+  background-color: transparent !important;
+} */
+.your-todos{
+  background-color: rgba(12, 7, 7, 0.425) !important;
+}
